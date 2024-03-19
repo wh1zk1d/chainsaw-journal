@@ -1,0 +1,23 @@
+{
+  "name": "chainsaw-journal",
+  "version": "1.0.0",
+  "description": "Stay informed and updated with Chainsaw Journal, offering advanced analytics and reporting capabilities for blockchain activities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wh1zk1d/chainsaw-journal"
+  },
+  "author": "wh1zk1d",
+  "license": "MIT",
+  "dependencies": {
+    "chain-thicket-explorer": "1.0.0",
+    "chainsaw-journal": "1.0.0",
+    "multer": "1.0.0",
+    "axios": "1.0.0",
+    "web3-utils": "1.0.0",
+    "firebase": "1.0.0"
+  }
+}
